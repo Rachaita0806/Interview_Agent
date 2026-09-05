@@ -40,7 +40,7 @@ The IBM credentials are pre-configured in `server.js`. To use a `.env` file inst
 IBM_API_KEY=your_api_key
 IBM_ML_URL=https://us-south.ml.cloud.ibm.com/ml/v1/text/generation?version=2023-05-29
 MODEL_ID=ibm/granite-4-h-small
-PROJECT_ID=b2f80dda-2ab7-410e-832f-53b41bee8a27
+PROJECT_ID=your_project_id
 PORT=3000
 ```
 
