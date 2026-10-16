@@ -187,6 +187,12 @@ The application is deployed using Render.
 
 The deployed application connects the frontend to the Node.js/Express backend, which communicates with IBM Watson Machine Learning and IBM Granite.
 
+<h2>📊 Application Screenshots</h2>
+
+<p align="center">
+  <img width="938" height="493" alt="Image" src="https://github.com/user-attachments/assets/a8908fd9-5cb2-466e-a3c1-61e347792945" />
+</p>
+
 ## 🎓 Project Objective
 
 The objective of the Interview Trainer Agent is to provide students and fresh graduates with an interactive platform for practicing job interviews.
