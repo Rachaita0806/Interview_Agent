@@ -192,6 +192,15 @@ The deployed application connects the frontend to the Node.js/Express backend, w
 <p align="center">
   <img width="938" height="493" alt="Image" src="https://github.com/user-attachments/assets/a8908fd9-5cb2-466e-a3c1-61e347792945" />
 </p>
+<p align="center">
+  <img width="945" height="497" alt="Image" src="https://github.com/user-attachments/assets/05837241-17eb-4f37-907f-af7eb467ba6c" />
+</p>
+<p align="center">
+  <img width="958" height="494" alt="Image" src="https://github.com/user-attachments/assets/97dfb6a6-bab1-406b-9bdb-e8b0037a00b2" />
+</p>
+<p align="center">
+  <img width="947" height="494" alt="Image" src="https://github.com/user-attachments/assets/2db388a2-75ab-4cc6-a881-af69b462b933" />
+</p>
 
 ## 🎓 Project Objective
 
